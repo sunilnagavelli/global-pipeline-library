@@ -11,3 +11,7 @@ def substract(firstNum, secondNum) {
 def multiply(firstNum, secondNum) {
     return firstNum * secondNum
 }
+
+def divide(firstNum, secondNum) {
+    return firstNum / secondNum) 
+}
