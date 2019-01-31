@@ -9,5 +9,5 @@ def substract(firstNum, secondNum) {
 }
 
 def multiply(firstNum, secondNum) {
-    return firstNum * secondNum)
+    return firstNum * secondNum
 }
