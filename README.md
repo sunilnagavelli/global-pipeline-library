@@ -1,1 +1,1 @@
-# global-pipeline-library
+# global-pipeline-lib
