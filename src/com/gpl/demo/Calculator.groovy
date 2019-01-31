@@ -13,5 +13,5 @@ def multiply(firstNum, secondNum) {
 }
 
 def divide(firstNum, secondNum) {
-    return firstNum / secondNum) 
+    return firstNum / secondNum
 }
